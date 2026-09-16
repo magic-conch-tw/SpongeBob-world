@@ -58,8 +58,8 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 * **[SIC_PMM_tc.md](./SIC_PMM_tc.md) (繁體中文原稿)**
 
 * **Official Archive (DOI):** 
-    * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190154.svg)](https://doi.org/10.5281/zenodo.20190154)
-    * Permanent Link: [https://doi.org/10.5281/zenodo.20190154](https://doi.org/10.5281/zenodo.20190154)
+    * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20194966.svg)](https://doi.org/10.5281/zenodo.20194966)
+    * Permanent Link: [https://doi.org/10.5281/zenodo.20194966](https://doi.org/10.5281/zenodo.20194966)
 
 ---
 > **Integrity Note:** 
