@@ -1,7 +1,7 @@
 # SpongeBob world project 🐚
 
 > **"The settlement of reality begins with the rectification of the foundation."**
-> **「實相的結算，始於地基的修正。」**
+> **「現實的結算，始於地基的修正。」**
 
 ![Domain](https://img.shields.io/badge/Domain-Theoretical--Physics-blue)
 ![Framework](https://img.shields.io/badge/Framework-SpongeBob--world-red)
