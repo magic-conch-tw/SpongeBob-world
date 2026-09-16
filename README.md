@@ -9,9 +9,11 @@
 
 ## 🌐 專案概述 / Overview
 
-This project officially releases the core framework of **SIC/PMM (Space Interlayer Conjecture / Phase-Manifestation Mechanics)**. It is a reconstruction system derived from logical necessity, designed to rectify the structural errors of traditional physicsphysics and achieve the fundamental settlement of physical reality.
+本專案正式發布並持續擴張中，這是一個從邏輯必然性出發的重構系統，旨在修正傳統物理學的結構性誤差，實現物理實相的底層結算，然而再推導過程中不斷展開，因此將逐步發布物理篇、數學篇、意識篇。
 
-本專案正式發布 **SIC/PMM（空間介層論猜想 / 相位顯影力學）** 之核心架構。這是一個從邏輯必然性出發的重構系統，旨在修正傳統物理學的結構性誤差，實現物理實相的底層結算。
+1.物理篇
+ [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** 之核心架構。]SIC_PMM.md
+ 2.
 
 ### 🚨 重構五大盲點 / Rectifying the Five Blind Spots
 
