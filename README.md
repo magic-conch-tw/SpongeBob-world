@@ -11,12 +11,14 @@
 
 本專案正式發布並持續擴張中，這是一個從邏輯必然性出發的重構系統，旨在修正傳統物理學的結構性誤差，實現現實世界的底層結算，然而再推導過程中不斷展開擴及其他領域，因此將逐步發布物理篇、數學篇、意識篇。
 
-1.物理篇
+This project is officially live and continuously expanding. Driven by logical necessity, this reconstruction framework aims to rectify structural anomalies within traditional physics and execute a fundamental settlement of objective reality. As the derivations systematically unfold, the scope naturally expands beyond its origin, leading to the sequential release of treatises across Physics, Mathematics, and Consciousness.
+
+1.物理篇 / Physics
  [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** 之核心架構。](SIC_PMM.md)
 
-2.數學篇
+2.數學篇 / Mathematics
 
-3.意識篇
+3.意識篇 / Consciousness
 
 ## 🔐 驗證與聯繫 (Verification & Contact)
 
@@ -25,9 +27,9 @@
 
 ## ⚖️ 反壟斷條款 / Anti-Monopoly Clause
 
-Any attempt to patent, close, or monopolize SpongeBob world will trigger automatic license termination, forcing derived technologies into the public domain.
-
 任何試圖對 SpongeBob world 進行專利封閉或壟斷之行為，將觸發授權自動終止，並強制其衍生技術歸入公有領域。
+
+Any attempt to patent, close, or monopolize SpongeBob world will trigger automatic license termination, forcing derived technologies into the public domain.
 
 ---
 
