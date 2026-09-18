@@ -14,7 +14,7 @@
 This project is officially live and continuously expanding. Driven by logical necessity, this reconstruction framework aims to rectify structural anomalies within traditional physics and execute a fundamental settlement of objective reality. As the derivations systematically unfold, the scope naturally expands beyond its origin, leading to the sequential release of treatises across Physics, Mathematics, and Consciousness.
 
 1.物理篇 / Physics
- [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** 之核心架構。](SIC_PMM.md)
+ [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** ](SIC_PMM.md)
 
 2.數學篇 / Mathematics
 
