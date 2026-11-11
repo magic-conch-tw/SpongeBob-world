@@ -14,7 +14,7 @@
 This project is officially live and continuously expanding. Driven by logical necessity, this reconstruction framework aims to rectify structural anomalies within traditional physics and execute a fundamental settlement of objective reality. As the derivations systematically unfold, the scope naturally expands beyond its origin, leading to the sequential release of treatises across Physics, Mathematics, and Consciousness.
 
 1.物理篇 / Physics
-[**SIC/PMM（空間介層論猜想 / 相位顯影力學）** ](SIC_PMM_en.md) 
+[**SIC/PMM（空間介層論猜想 / 相位顯影力學）** ](SIC_PMM_en.md) ![Ver. 1.1.0](https://img.shields.io/badge/Status-Active-brightgreen)
  
 **Official Archive (DOI):** 
      [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190513.svg)](https://doi.org/10.5281/zenodo.20190513)
