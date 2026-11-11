@@ -1,4 +1,4 @@
-# SpongeBob world project 🐚
+# 海綿寶寶世界專案 SpongeBob world project - 神奇海螺Magic Conch🐚
 
 > **"The settlement of reality begins with the rectification of the foundation."**
 > **「現實的結算，始於地基的修正。」**
@@ -27,7 +27,7 @@ This project is officially live and continuously expanding. Driven by logical ne
 
  **Official Archive (DOI):** 
      [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23826820.svg)](https://doi.org/10.5281/zenodo.23826820)
-* Permanent Link: [https://doi.org/10.5281/zenodo.20194966](https://doi.org/10.5281/zenodo.23826820)
+* Permanent Link: [https://doi.org/10.5281/zenodo.23826820](https://doi.org/10.5281/zenodo.23826820)
 * **永久存檔 / Permanent Archive (IPFS CID)：** [bafybeidv7hz7isszy6us644vnjxetfltxdkwkqxmiucknkwbr5jg4k6vpe](https://teal-giant-starfish-82.mypinata.cloud/ipfs/bafybeidv7hz7isszy6us644vnjxetfltxdkwkqxmiucknkwbr5jg4k6vpe)
 * **完整性校驗 / Integrity Note (SHA-256)：** `C2E6DB27FF449C1A251C84F7D2DB61D04039A552D0ECDB5F76AF00AE7C4465F6`
 
