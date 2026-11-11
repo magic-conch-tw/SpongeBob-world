@@ -23,7 +23,13 @@ This project is officially live and continuously expanding. Driven by logical ne
 * **完整性校驗 / Integrity Note (SHA-256)：** `8BD00C2E31227CFA99A0A0D547E7D2E354BFF5DDAFF7CC3021E4F3593BCDDC24`
 
 2.數學篇 / Mathematics
- [**SOA/BOPG（結構大於公理 / 基底全維投影幾何）** ](SOA_BOPG.md)
+ [**SOA/BOPG（結構大於公理 / 基底全維投影幾何）** ](SOA_BOPG.md) ![Version](https://img.shields.io/badge/Ver.-1.0.0-brightgreen)
+
+ **Official Archive (DOI):** 
+     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23826820.svg)](https://doi.org/10.5281/zenodo.23826820)
+* Permanent Link: [https://doi.org/10.5281/zenodo.20194966](https://doi.org/10.5281/zenodo.23826820)
+* **永久存檔 / Permanent Archive (IPFS CID)：** [bafybeidv7hz7isszy6us644vnjxetfltxdkwkqxmiucknkwbr5jg4k6vpe](https://teal-giant-starfish-82.mypinata.cloud/ipfs/bafybeidv7hz7isszy6us644vnjxetfltxdkwkqxmiucknkwbr5jg4k6vpe)
+* **完整性校驗 / Integrity Note (SHA-256)：** `C2E6DB27FF449C1A251C84F7D2DB61D04039A552D0ECDB5F76AF00AE7C4465F6`
 
 3.意識篇 / Consciousness
 
