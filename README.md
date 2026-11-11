@@ -9,9 +9,9 @@
 
 ## 🌐 專案概述 / Overview
 
-本專案正式發布並持續擴張中，這是一個從邏輯必然性出發的重構系統，旨在修正傳統物理學的結構性誤差，實現現實世界的底層結算，然而再推導過程中不斷展開擴及其他領域，因此將逐步發布物理篇、數學篇、意識篇。
+本專案正式發布並持續擴張中，這是一個從邏輯必然性出發的重構系統，初旨在修正物理學的結構性誤差，從而解決現實世界的矛盾現象，然而在推導過程中，不斷展開擴及其他科學領域，最後在生命與意識的推導中達成全域邏輯閉環，因此將逐步發布物理篇、數學篇、意識篇。
 
-This project is officially live and continuously expanding. Driven by logical necessity, this reconstruction framework aims to rectify structural anomalies within traditional physics and execute a fundamental settlement of objective reality. As the derivations systematically unfold, the scope naturally expands beyond its origin, leading to the sequential release of treatises across Physics, Mathematics, and Consciousness.
+This project is officially released and continuously expanding. Conceived as a reconstructive system rooted in logical necessity, its original mission was to rectify the structural errors of physics, thereby resolving the contradictions of the physical world. However, as the derivations systematically unfolded, the framework naturally cascaded into other scientific domains—ultimately achieving a global logical closure through the derivation of life and consciousness. Moving forward, the project will be progressively unveiled across three major volumes: Physics, Mathematics, and Consciousness.
 
 1.物理篇 / Physics
 [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** ](SIC_PMM_en.md) ![Version](https://img.shields.io/badge/Ver.-1.1.0-brightgreen)
