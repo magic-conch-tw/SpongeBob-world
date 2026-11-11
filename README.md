@@ -18,10 +18,10 @@ This project is officially live and continuously expanding. Driven by logical ne
  [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** ](SIC_PMM_en.md) 
  
 **Official Archive (DOI):** 
-    * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190513.svg)](https://doi.org/10.5281/zenodo.20190513)
+     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190513.svg)](https://doi.org/10.5281/zenodo.20190513)
 * Permanent Link: [https://doi.org/10.5281/zenodo.20194966](https://doi.org/10.5281/zenodo.20190513)
 * **永久存檔 / Permanent Archive (IPFS CID)：**
-* `https://teal-giant-starfish-82.mypinata.cloud/ipfs/bafybeiepwa3nqo5atcgu24qt74rreaxk7yblgh6piha6yokajlmnwck73u`
+  `https://teal-giant-starfish-82.mypinata.cloud/ipfs/bafybeiepwa3nqo5atcgu24qt74rreaxk7yblgh6piha6yokajlmnwck73u`
 * **完整性校驗 / Integrity Note (SHA-256)：** `8BD00C2E31227CFA99A0A0D547E7D2E354BFF5DDAFF7CC3021E4F3593BCDDC24`
 
 2.數學篇 / Mathematics
