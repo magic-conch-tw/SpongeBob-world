@@ -1,4 +1,4 @@
-# 海綿寶寶世界專案 SpongeBob world project - 神奇海螺Magic Conch🐚
+# 海綿寶寶世界專案 SpongeBob world project 🐚
 
 > **"The settlement of reality begins with the rectification of the foundation."**
 > **「現實的結算，始於地基的修正。」**
