@@ -17,6 +17,7 @@ This project is officially live and continuously expanding. Driven by logical ne
  [**SIC/PMM（空間介層論猜想 / 相位顯影力學）** ](SIC_PMM.md)
 
 2.數學篇 / Mathematics
+ [**SOA/BOPG（結構大於公理 / 基底全維投影幾何）** ](SOA_BOPG.md)
 
 3.意識篇 / Consciousness
 
