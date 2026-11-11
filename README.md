@@ -1,9 +1,9 @@
 # 海綿寶寶世界專案 SpongeBob world project 🐚
 
-> **"The settlement of reality begins with the rectification of the foundation."**
-> **「現實的結算，始於地基的修正。」**
+> **"The rectification of the foundation begins with honesty toward phenomena."**
+> **「地基的修正，始於對現象的誠實。」**
 
-![Domain](https://img.shields.io/badge/Domain-Theoretical--Physics-blue)
+![Domain](https://img.shields.io/badge/Domain-Theory--of--Everythings-blue)
 ![Framework](https://img.shields.io/badge/Framework-SpongeBob--world-red)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
